@@ -38,3 +38,11 @@ Pastikan Anda memiliki kompiler C++ yang terpasang di sistem Anda (misalnya, GCC
    ```bash
    git clone https://github.com/your-username/trending-music-c45-tfidf.git
    cd trending-music-c45-tfidf
+
+2. Compile the C++ program:
+
+   g++ -o trending_music main.cpp
+   
+3. Run the program:
+
+   ./trending_music
