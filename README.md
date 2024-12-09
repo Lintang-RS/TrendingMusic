@@ -41,8 +41,10 @@ Pastikan Anda memiliki kompiler C++ yang terpasang di sistem Anda (misalnya, GCC
 
 2. Compile the C++ program:
 
+   ```bash
    g++ -o trending_music main.cpp
    
 3. Run the program:
 
+   ```bash
    ./trending_music
